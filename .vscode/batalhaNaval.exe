@@ -1,0 +1,1 @@
+gcc batalhaNaval.c -o batalhaNaval.exe
